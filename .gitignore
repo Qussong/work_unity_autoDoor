@@ -33,6 +33,11 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+.vsconfig
+
+# Visual Studio solution files (new format)
+*.slnx
 
 # Gradle cache directory
 .gradle/

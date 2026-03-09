@@ -1,0 +1,5 @@
+
+PortName = 포트이름
+PlayDelayTime = 영상 재생까지 걸리는 시간 (1000 = 1sec), 기본 5초
+DoorSignalLoopCnt = 문열림 신호 보내는 횟수 (1초 간격으로 DoorSignalLoopCnt 만큼 신호보냄), 기본 5회
+WaitTime = 문 열림 신호 다 보낸 뒤 콘탠츠 작동까지 대기시간, 문 닫히는 시간을 위해 넣어둠 (1000 = 1sec), 기본 10초
